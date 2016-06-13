@@ -1,2 +1,2 @@
-# AltGenerator
-Minecraft alt shop
+# AltLoaderDownloads
+Downloads for altdispenser.net's AltLoader
